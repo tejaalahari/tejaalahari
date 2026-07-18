@@ -2,49 +2,112 @@
 
 🎓 B.Tech Computer Science & Engineering Student at Vignan University
 
-💻 Aspiring Software Engineer | Python Developer | AI & Machine Learning Enthusiast
+💻 Aspiring Software Engineer | Python Developer | AI & Data Analytics Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning Python, DSA, SQL, Machine Learning, and Generative AI
-- 💡 Interested in Software Engineering, Artificial Intelligence, and Backend Development
-- 🎯 Goal: Build impactful AI projects and secure a Software Engineering internship
+- 🎓 B.Tech CSE student passionate about Software Engineering and Artificial Intelligence.
+- 🌱 Currently learning Data Structures & Algorithms, Machine Learning, Generative AI, Git, and GitHub.
+- 📊 Completed the **GenAI Powered Data Analytics Job Simulation** by **Forage**.
+- 💡 Passionate about solving real-world problems through software development and AI.
+- 🎯 Actively seeking Software Engineering and AI Internship opportunities.
 
 ---
 
 ## 🛠️ Technical Skills
 
+### Programming Languages
 - Python
 - SQL
+- JavaScript
+
+### Web Technologies
 - HTML5
 - CSS3
-- JavaScript
-- Git & GitHub
+
+### Core Computer Science
+- Object-Oriented Programming
+- Data Structures & Algorithms (Learning)
+
+### AI & Data
+- Machine Learning (Learning)
+- Generative AI (Learning)
+- Prompt Engineering
+- Data Analytics
+
+### Tools
+- Git (Learning)
+- GitHub
 - VS Code
 
 ---
 
-## 📂 Projects
+## 💼 Professional Experience
 
-- 🌐 Portfolio Website
-- 🌦️ Weather Dashboard
-- 🤖 More AI & Machine Learning projects coming soon
+### GenAI Powered Data Analytics Job Simulation — Forage (July 2026)
+
+- Performed Exploratory Data Analysis (EDA) and customer risk profiling.
+- Applied AI techniques for delinquency prediction.
+- Developed business reports and data storytelling presentations.
+- Explored AI-driven collections strategies for business decision-making.
+
+---
+
+## 🚀 Projects
+
+### 🌐 Portfolio Website
+- Responsive portfolio built using HTML, CSS, and JavaScript.
+- Showcases projects, certifications, and technical skills.
+
+### 🌦️ Weather Dashboard
+- Built using HTML, CSS, JavaScript, and REST APIs.
+- Displays real-time weather information with city-based search.
+
+> 🚧 More AI and Machine Learning projects coming soon...
 
 ---
 
 ## 📜 Certifications
 
-- Tata Group – Data Visualisation: Empowering Business with Effective Insights (Forage)
-- HackerRank Python Skill Certification
-- Cambridge Preliminary A2 Certificate
+- ✅ GenAI Powered Data Analytics Job Simulation — Forage
+- ✅ HackerRank Python Skill Certification
+- ✅ Cambridge Preliminary A2 Certificate
+
+---
+
+## 🎯 Current Learning Roadmap
+
+- ✅ Python
+- 🔄 Data Structures & Algorithms
+- 🔄 Object-Oriented Programming
+- 🔄 Git & GitHub
+- 🔄 Machine Learning
+- 🔄 Generative AI
+- 🔄 Building AI Projects
+
+---
+
+## 🌟 Strengths
+
+- Strong Problem-Solving Skills
+- Quick Learner
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/saiteja-alahari-298a604
-- GitHub: https://github.com/tejaalahari
+📧 Email: **tejaalahari15@gmail.com**
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/saiteja-alahari-298a604
+
+💻 GitHub:
+https://github.com/tejaalahari
+
+---
 
 ⭐ Thanks for visiting my profile!
+
+*"Always learning, always building."*
