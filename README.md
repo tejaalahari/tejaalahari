@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Alahari Sai Teja
 
-<!--
-**tejaalahari/tejaalahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Student at Vignan University
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer | Python Developer | AI & Machine Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning Python, DSA, SQL, Machine Learning, and Generative AI
+- 💡 Interested in Software Engineering, Artificial Intelligence, and Backend Development
+- 🎯 Goal: Build impactful AI projects and secure a Software Engineering internship
+
+---
+
+## 🛠️ Technical Skills
+
+- Python
+- SQL
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- VS Code
+
+---
+
+## 📂 Projects
+
+- 🌐 Portfolio Website
+- 🌦️ Weather Dashboard
+- 🤖 More AI & Machine Learning projects coming soon
+
+---
+
+## 📜 Certifications
+
+- Tata Group – Data Visualisation: Empowering Business with Effective Insights (Forage)
+- HackerRank Python Skill Certification
+- Cambridge Preliminary A2 Certificate
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/saiteja-alahari-298a604
+- GitHub: https://github.com/tejaalahari
+
+⭐ Thanks for visiting my profile!
