@@ -1,113 +1,44 @@
-# Hi 👋, I'm Alahari Sai Teja
+# Hi, I'm Sai Teja 👋
 
-🎓 B.Tech Computer Science & Engineering Student at Vignan University
+### B.Tech CSE Student | Python | SQL | DSA | AI & GenAI
 
-💻 Aspiring Software Engineer | Python Developer | AI & Data Analytics Enthusiast
+I'm a Computer Science student interested in Software Engineering and Artificial Intelligence. I enjoy building practical projects that combine programming, problem-solving, and AI.
 
----
+## 🛠️ Skills
 
-## 🚀 About Me
-
-- 🎓 B.Tech CSE student passionate about Software Engineering and Artificial Intelligence.
-- 🌱 Currently learning Data Structures & Algorithms, Machine Learning, Generative AI, Git, and GitHub.
-- 📊 Completed the **GenAI Powered Data Analytics Job Simulation** by **Forage**.
-- 💡 Passionate about solving real-world problems through software development and AI.
-- 🎯 Actively seeking Software Engineering and AI Internship opportunities.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
 - Python
 - SQL
-- JavaScript
-
-### Web Technologies
-- HTML5
-- CSS3
-
-### Core Computer Science
-- Object-Oriented Programming
-- Data Structures & Algorithms (Learning)
-
-### AI & Data
-- Machine Learning (Learning)
-- Generative AI (Learning)
+- Data Structures & Algorithms
+- Git & GitHub
 - Prompt Engineering
-- Data Analytics
 
-### Tools
-- Git (Learning)
-- GitHub
-- VS Code
+## 🚀 Featured Projects
 
----
+### AI Resume Suite
+A Python-based Resume Intelligence and ATS Optimization Platform that analyzes resumes against job descriptions using NLP, TF-IDF similarity, skill matching, and rule-based analysis.
 
-## 💼 Professional Experience
+**Tech:** Python, Streamlit, NLP, Scikit-learn, NLTK, PyMuPDF, ReportLab
 
-### GenAI Powered Data Analytics Job Simulation — Forage (July 2026)
+### ORGagent
+An Agentic AI project developed as part of a team, featuring an interactive interface for visualizing agent execution and workflow progression.
 
-- Performed Exploratory Data Analysis (EDA) and customer risk profiling.
-- Applied AI techniques for delinquency prediction.
-- Developed business reports and data storytelling presentations.
-- Explored AI-driven collections strategies for business decision-making.
+🏆 **1st Prize — Agentic AI Day Expo**
 
----
+## 📜 Certifications & Experience
 
-## 🚀 Projects
+- Tata — GenAI Powered Data Analytics Job Simulation | Forage
+- Claude 101 — Anthropic | Certificate of Completion
+- HackerRank Python Skill Certification
+- Cambridge Preliminary English Test (A2)
 
-### 🌐 Portfolio Website
-- Responsive portfolio built using HTML, CSS, and JavaScript.
-- Showcases projects, certifications, and technical skills.
+## 🎯 Current Focus
 
-### 🌦️ Weather Dashboard
-- Built using HTML, CSS, JavaScript, and REST APIs.
-- Displays real-time weather information with city-based search.
-
-> 🚧 More AI and Machine Learning projects coming soon...
+- Strengthening Python and DSA
+- Improving SQL and problem-solving
+- Building practical AI and Agentic AI projects
+- Preparing for Software Engineering and AI-related internships
 
 ---
 
-## 📜 Certifications
-
-- ✅ GenAI Powered Data Analytics Job Simulation — Forage
-- ✅ HackerRank Python Skill Certification
-- ✅ Cambridge Preliminary A2 Certificate
-
----
-
-## 🎯 Current Learning Roadmap
-
-- ✅ Python
-- 🔄 Data Structures & Algorithms
-- 🔄 Object-Oriented Programming
-- 🔄 Git & GitHub
-- 🔄 Machine Learning
-- 🔄 Generative AI
-- 🔄 Building AI Projects
-
----
-
-## 🌟 Strengths
-
-- Strong Problem-Solving Skills
-- Quick Learner
-
----
-
-## 🌐 Connect With Me
-
-📧 Email: **tejaalahari15@gmail.com**
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/saiteja-alahari-298a60403?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
-💻 GitHub:
-https://github.com/tejaalahari
-
----
-
-⭐ Thanks for visiting my profile!
-
-*"Always learning, always building."*
+📫 **Connect with me:**  
+https://www.linkedin.com/in/saiteja-alahari-298a60403
