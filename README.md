@@ -2,7 +2,7 @@
 
 ### B.Tech CSE Student | Python | SQL | DSA | AI & GenAI
 
-I'm a Computer Science student interested in Software Engineering and Artificial Intelligence. I enjoy building practical projects that combine programming, problem-solving, and AI.
+I'm a Computer Science student interested in Software Engineering and Artificial Intelligence. I enjoy building practical software and AI projects while strengthening my programming and problem-solving skills.
 
 ## 🛠️ Skills
 
@@ -15,16 +15,16 @@ I'm a Computer Science student interested in Software Engineering and Artificial
 ## 🚀 Featured Projects
 
 ### AI Resume Suite
-A Python-based Resume Intelligence and ATS Optimization Platform that analyzes resumes against job descriptions using NLP, TF-IDF similarity, skill matching, and rule-based analysis.
+Python-based Resume Intelligence and ATS Optimization Platform for analyzing resumes against job descriptions, identifying skill gaps, and improving resume alignment.
 
-**Tech:** Python, Streamlit, NLP, Scikit-learn, NLTK, PyMuPDF, ReportLab
+**Tech:** Python, Streamlit, NLP, NLTK, Scikit-learn, PyMuPDF, ReportLab
 
 ### ORGagent
-An Agentic AI project developed as part of a team, featuring an interactive interface for visualizing agent execution and workflow progression.
+Agentic AI project developed as part of a team, featuring an interactive interface for visualizing agent execution and workflow progression.
 
 🏆 **1st Prize — Agentic AI Day Expo**
 
-## 📜 Certifications & Experience
+## 📜 Certifications & Virtual Experience
 
 - Tata — GenAI Powered Data Analytics Job Simulation | Forage
 - Claude 101 — Anthropic | Certificate of Completion
@@ -33,12 +33,11 @@ An Agentic AI project developed as part of a team, featuring an interactive inte
 
 ## 🎯 Current Focus
 
-- Strengthening Python and DSA
-- Improving SQL and problem-solving
-- Building practical AI and Agentic AI projects
-- Preparing for Software Engineering and AI-related internships
+- Python and Data Structures & Algorithms
+- SQL and problem-solving
+- Artificial Intelligence and Agentic AI
+- Software Engineering and AI-related internships
 
----
+## 🔗 Connect With Me
 
-📫 **Connect with me:**  
-https://www.linkedin.com/in/saiteja-alahari-298a60403
+[LinkedIn] (https://www.linkedin.com/in/saiteja-alahari-298a60403 )
